@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shafiul</h1>
 <h3 align="center">A passionate full-stack engineer, aiming to improve every day</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiul23&label=Profile%20views&color=55dd84&style=flat" alt="shafiul23" /> </p>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiul23&label=Profile%20views&color=55dd84&style=flat" alt="shafiul23" /> </p> -->
 
 - 🌱 I’m currently learning **Java**
 
