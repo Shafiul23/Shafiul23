@@ -22,7 +22,19 @@ Here are some ideas to get you started:
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiul23&label=Profile%20views&color=55dd84&style=flat" alt="shafiul23" /> </p> -->
 
-- 🌱 I’m currently learning **Java**
+
+- ⚡ About me: I graduated from UCL with a degree in Chemistry with Mathematics in 2022. My decision to pursue a career in tech is motivated by both the pace at which the technological world is evolving as well as the gratifying feeling that comes from solving a technical problem. 
+
+- 💻 I started my coding journey in September 2021 with a programming module during my degree. From there I decided to join Digital Futures to further my skills in software engineering.
+  
+- 🎓 I have completed the 3 month full-stack software engineering course at Digital Futures Academy and I'm currently solidifying the content that I learned during the course, as well as looking to expand my portfolio with new MERN stack projects. 
+
+- 📚 Additionally, I'm studying **Java** in preparation for the Java SE 8 Oracle Certified Associate (OCA) certification.
+  
+- 🧠 In the future, I look foward to learning about new languages and platforms, such as C++ and Docker. On top of this, I would like to build my skillset by learning the foundations of computer science. 
+  
+- 📫 How to reach me: shafiulmirza@hotmail.com
+
 
 <p align="left">
 </p>
