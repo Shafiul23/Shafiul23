@@ -29,10 +29,6 @@ Here are some ideas to get you started:
   
 - 🎓 I have completed the 3 month full-stack software engineering course at Digital Futures Academy and I'm currently solidifying the content that I learned during the course, as well as looking to expand my portfolio with new MERN stack projects. 
 
-- 📚 Additionally, I'm studying **Java** in preparation for the Java SE 8 Oracle Certified Associate (OCA) certification.
-  
-- 🧠 In the future, I look foward to learning about new languages and platforms, such as C++ and Docker. On top of this, I would like to build my skillset by learning the foundations of computer science. 
-
 - 🔨 I'm now working as a front-end software engineer where I work with technologies like Next.js for development and GitHub for collaboration. Additionally, I have picked up some projects for back-end work using Java SpringBoot for development, Docker for containerisation and DynamoDB (a no-SQL database) for storing data. 
   
 - 📫 How to reach me: shafiulmirza@hotmail.com
