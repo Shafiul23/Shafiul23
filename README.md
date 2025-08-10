@@ -1,22 +1,28 @@
 <h1 align="center">Hi 👋, I'm Shafiul</h1>
 
-- 🎓 About Me: I graduated from UCL with a degree in Chemistry with Mathematics in 2022 but found my true passion in technology. The rapid evolution of the tech world and the rewarding nature of solving complex technical problems inspired me to pivot my career towards software engineering.
+- 🎓 **About Me:** I graduated from UCL in 2022 with a degree in Chemistry with Mathematics, but discovered my true passion in technology. The fast-paced evolution of the tech world and the satisfaction of solving complex problems inspired me to pivot my career into software engineering.
 
-- 💻 Journey into Tech: My coding journey began in 2021 with a programming module during my degree. This sparked my interest, leading me to join Digital Futures Academy in 2022, where I completed an intensive full-stack software engineering bootcamp.
+- 💻 **Journey into Tech:** My coding journey began in 2021 with a programming module during my degree. That interest grew into a commitment when I joined the Digital Futures Academy in 2022, completing an intensive full-stack bootcamp covering Java, JavaScript, Node, and React. Since then, I’ve built multiple full-stack projects and continued to expand my skills.
 
-- 🔨 Professional Experience: Currently, I work as a Front-End Engineer at Sky, where I specialise in building scalable, user-friendly applications with React, TypeScript, and Next.js. My work also involves supporting back-end development tasks using Java, Spring Boot, MongoDB, and DynamoDB, as well as containerising applications with Docker.
+- 🔨 **Professional Experience:**  
+  I’m currently Front-End Software Engineer at Cushon, specialising in building scalable, user-friendly front-end applications with React and occasionally React Native, using TypeScript for type safety and maintainability. I also have past experience supporting back-end development with Java and Spring Boot.
 
-- 🔑 Key Projects:
-  - Squad Dashboard: A full-stack application to monitor microservice statuses within Sky’s Identity department, featuring live hourly updates.
-  - Lift as We Climb App: A React Native mobile app with dynamic timetables, interactive maps, and event management.
-  - TypeTester: A full-stack application built with Flask, React, and PostgreSQL, allowing users to test typing speed and compete on a leaderboard.
-- 📫 How to reach me: shafiulmirza@hotmail.com
+- 🔑 **Notable Projects:**
+  - **Squad Dashboard** – Full-stack app to monitor microservice statuses within Sky’s Identity department, with live hourly updates.
+  - **Lift as We Climb** – React Native mobile app with dynamic timetables, interactive maps, and event management.
+  - **TypeTester** – Full-stack typing speed test app (Flask + React + PostgreSQL) with JWT auth, leaderboards, and user profiles.
+  - **Habee** – A React Native habit-tracking app with calendar views, weekly grids and daily reminder. Currently deployed on the App Store.
+
+- 📫 **Get in Touch:**  
+  Email: **shafiulmirza@hotmail.com**  
+  GitHub: [github.com/shafiul23](https://github.com/shafiul23)  
 
 ## 🚀 Skills & Technologies
 
-- Frontend: React, TypeScript, Next.js, React Native
-- Backend: Java, Spring Boot, Python, Flask
-- Databases: MongoDB, DynamoDB, PostgreSQL, SQLite
-- Tools & DevOps: Docker, GitHub, VSCode, Jira
+**Frontend:** React, TypeScript, Next.js, React Native  
+**Backend:** Java, Spring Boot, Python, Flask  
+**Databases:** MongoDB, DynamoDB, PostgreSQL, SQLite  
+**Tools & DevOps:** Docker, GitHub, VSCode, Jira  
 
-🏃 Outside of Tech: When I’m not coding, I enjoy working on Arduino projects, running (recently completed a half marathon!), and reading - especially fantasy novels like Game of Thrones.
+🏃 **Outside of Tech:**  
+When I’m not coding, I enjoy working on Arduino projects, running (recently completed a half marathon!), strength training, and exploring books on philosophy, productivity, and self-development.
