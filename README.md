@@ -26,7 +26,7 @@ mobile, and backend development.
 
 ## 🔨 Selected projects
 
-### [Market Dashboard](https://github.com/shafiul23/market-dashboard)
+### [Market Dashboard](https://dashboard.shafiul.dev)
 
 A live order book built with **React, TypeScript, and Coinbase WebSocket data**.
 
@@ -35,13 +35,13 @@ A live order book built with **React, TypeScript, and Coinbase WebSocket data**.
 - Handles reconnections, heartbeat monitoring, and connection diagnostics.
 - Uses decimal arithmetic for price and quantity calculations.
 
-### [Habee](https://habee-app.com)
+### [Habee](https://hexahabit.shafiul.dev)
 
 A habit-tracking app built with **React Native and Expo**, available on the
 **iOS App Store**. Supports daily and weekly habits, reminders, calendar views,
 and archiving, backed by a Flask API and PostgreSQL database.
 
-### TypeTester
+### [Typetester](https://typetester.shafiul.dev)
 
 A full-stack typing test application built with **React, Flask, and PostgreSQL**,
 with JWT authentication, leaderboards, and user profiles.
