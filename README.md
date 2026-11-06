@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shafiul</h1>
-<p align="center">
+<h1 align="left">Shafiul</h1>
+<p align="left">
   Frontend Software Engineer · London · React & TypeScript
 </p>
 
